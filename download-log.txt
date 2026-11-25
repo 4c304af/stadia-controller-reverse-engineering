@@ -1,0 +1,64 @@
+﻿20:06:07  === start ===
+20:06:07  PS 5.1.26100.9711
+20:06:08  OK   Scyne__stadiaRawBtFw.zip                                         845182 bytes
+20:06:09  OK   71__stadiacontroller.zip                                          23113 bytes
+20:06:13  OK   luigimannoni__stadia-controller-flasher.zip                    21504161 bytes
+20:06:15  OK   ChristopherKlay__stadiacontroller.zip                           2252644 bytes
+20:06:17  OK   jkfran__stadiacast.zip                                           642124 bytes
+20:06:19  OK   hazrpg__stadia-flasher.zip                                      8418931 bytes
+20:06:19  OK   MWisBest__StadiEm.zip                                            236330 bytes
+20:06:20  OK   merlinschumacher__Stadia-Controller-Bluetooth-Firmware-Bin.zip      1929365 bytes
+20:06:26  OK   vouiren__StadiaFW.zip                                          28691426 bytes
+20:06:26  OK   ricky8k__Stadia-Controller-Firmware.zip                         2134806 bytes
+20:06:30  OK   StadiaMemories__firmware.zip                                   14194241 bytes
+20:06:30  OK   berge472__stadia-ble-dongle.zip                                   10786 bytes
+20:06:30  OK   O-IceDawn-O__stadia-stick.zip                                    134553 bytes
+20:06:31  OK   JaimeDelgadoNaya__stadia-controller-research.zip                1368057 bytes
+20:06:32  OK   gomezluisj__stadia-controller-re.zip                             124141 bytes
+20:06:32  OK   helloparthshah__StadiaWireless.zip                              1225927 bytes
+20:06:33  OK   pjburnhill__stadia-controller-support.zip                          2865 bytes
+20:06:33  OK   sebastiansam55__stadia-bluetooth.zip                             564480 bytes
+20:06:34  OK   aisk__WinStadia.zip                                               43409 bytes
+20:06:35  OK   DJm00n__ControllersInfo.zip                                     2803903 bytes
+20:06:51  OK   JayHeng__NXP-MCUBootUtility.zip                                65663951 bytes
+20:06:52  OK   bruce_pvt_a_prod_signed.bin                                     1050984 bytes
+20:06:53  ERR  bruce_dvt_a_dev_signed.bin                                 远程服务器返回错误: (404) 未找到。
+20:06:54  ERR  bruce_dvt_a_dev_signed.bin                                 远程服务器返回错误: (404) 未找到。
+20:06:54  ERR  bruce_dvt_a_stage_signed.bin                               远程服务器返回错误: (404) 未找到。
+20:06:54  ERR  bruce_dvt_a_stage_signed.bin                               远程服务器返回错误: (404) 未找到。
+20:06:55  OK   restricted_ivt_flashloader.bin                                   100672 bytes
+20:06:55  OK   flashloader_fcb_get_vendor_id.bin                                   512 bytes
+20:06:55  ERR  flashloader_fcb_w25q128jw.bin                              远程服务器返回错误: (404) 未找到。
+20:06:56  ERR  flashloader_fcb_w25q128jw.bin                              远程服务器返回错误: (404) 未找到。
+20:06:56  ERR  IMXRT1060RM.pdf                                            远程服务器返回错误: (404) 未找到。
+20:06:57  FCC html ok, pdf links found: 0
+20:06:57  === done ===
+20:07:39  === phase2 start ===
+20:07:39  FCC exhibits: 18
+20:07:41  OK   External-Photos_External-Photos-4297249.pdf               1827249 bytes
+20:07:42  OK   Internal-Photos_Internal-Photos-4297250.pdf               4036542 bytes
+20:07:42  OK   Label_Label-Sample-and-Label-Location-rev-2-4297240.pdf        87947 bytes
+20:07:43  OK   Letter_Confidentiality-Request-4297241.pdf                 118929 bytes
+20:07:44  OK   Letter_Cover-Letter-Agent-Authorization-4297242.pdf         91438 bytes
+20:07:45  extracted 11 files -> firmware\gotham-ota
+20:07:45  extracted 3 files -> firmware\bruce
+20:07:46  extracted 3 files -> firmware\flashloader
+20:07:46  extracted 17 files -> firmware\hashes
+20:07:46  OK   RF-Exposure-Info_RF-Exposure-Info-SAR-1-4297243.pdf       5334996 bytes
+20:07:48  OK   RF-Exposure-Info_RF-Exposure-Info-SAR-2-4297244.pdf       5209396 bytes
+20:07:49  OK   Test-Report_Test-Report-co-located-rev-4297245.pdf         613855 bytes
+20:07:50  OK   Test-Report_Test-Report-DFS-4297246.pdf                    671768 bytes
+20:07:51  OK   Test-Report_Test-Report-DSS-BT-EDR-4297199.pdf            1494233 bytes
+20:07:52  OK   Test-Report_Test-Report-DTS-BT-LE-rev-4297214.pdf          888714 bytes
+20:07:54  OK   Test-Report_Test-Report-DTS-WLAN-rev-4297215.pdf          5396362 bytes
+20:07:55  OK   Test-Report_Test-Report-NII-1-4297247.pdf                 2195372 bytes
+20:07:57  OK   Test-Report_Test-Report-NII-2-4297248.pdf                 4244652 bytes
+20:07:58  OK   Test-Setup-Photos_Test-Set-Up-Photos-4297260.pdf           592139 bytes
+20:07:58  OK   Test-Setup-Photos_Test-Set-Up-Photos-DFS-4297254.pdf        54603 bytes
+20:07:59  OK   Test-Setup-Photos_Test-Set-Up-Photos-SAR-4297257.pdf       517544 bytes
+20:08:00  OK   User-Manual_Users-Manual-rev-4297252.pdf                   128172 bytes
+20:08:00  ERR  IMXRT1060RM.pdf                                      远程服务器返回错误: (404) 未找到。
+20:08:00  ERR  IMXRT1060RM.pdf                                      远程服务器返回错误: (404) 未找到。
+20:08:01  ERR  IMXRT1060RM.pdf                                      远程服务器返回错误: (404) 未找到。
+20:08:01  ERR  IMXRT1060RM.pdf                                      远程服务器返回错误: (404) 未找到。
+20:08:01  === phase2 done ===

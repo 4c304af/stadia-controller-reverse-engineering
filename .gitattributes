@@ -1,0 +1,7 @@
+* -text
+*.bin binary
+*.zip binary
+*.pdf binary
+*.docx binary
+*.csv text eol=crlf
+*.md text eol=crlf
